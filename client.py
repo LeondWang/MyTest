@@ -75,5 +75,5 @@ def SendRequest1(url):
 
 
 
-SendRequest(url,"hello,world")
-#SendRequestGzip(url2,'hello')
+#SendRequest(url,"hello,world")
+SendRequestGzip(url2,'hello')
